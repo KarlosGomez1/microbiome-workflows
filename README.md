@@ -4,6 +4,6 @@
 ## Tools 
 
 ### Binning Tools
-Metaspades
+- Metaspades
 Metabat2
 Maxbin
