@@ -44,10 +44,7 @@ This step clusters assembled contigs into draft metagenome-assembled genomes (MA
 * Filtered contig files (*_contigs.m500.fasta) for each sample
 * Cleaned paired-end reads (*_R1_clean.fastq.gz, *_R2_clean.fastq.gz)
 * Sample list: one sample ID per line (used with SGE_TASK_ID)
-* Singularity images for each binning tool:
-- metabat2.sif
-- maxbin2.sif
-- concoct.img
+
 
 
 
