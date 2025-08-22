@@ -12,3 +12,14 @@ This repository provides workflows, scripts, and examples for metagenomic data a
 * Taxonomic Classification
 
 
+# 1. Quality Control
+
+This step will remove host reads.
+* Requirements:
+- Path to directory with paired shotgun sequencing files. 
+
+
+# 2. Assemble Contigs 
+
+# 3. 
+
